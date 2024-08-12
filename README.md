@@ -12,4 +12,3 @@ Python
 Scikit-learn
 Pandas
 NumPy
-Matplotlib
